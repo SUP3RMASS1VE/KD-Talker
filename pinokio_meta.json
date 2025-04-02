@@ -3,7 +3,8 @@
     "https://x.com/SUP3RMASS1VE/status/1907480635695837342",
     "https://x.com/SUP3RMASS1VE/status/1907481506802491713"
   ],
-  "title": "SUP3RMASS1VE (wrote the app/launcher)",
+  "links": [{
+    "title": "cocktailpeanut (wrote the launcher)",
     "links": [{
       "type": "bitcoin",
       "value": "1N942jHr6vVuR2KAe2JEf3nN59eR21tpKv"
@@ -17,4 +18,5 @@
       "title": "Discord",
       "value": "https://discord.gg/mvDcrA57AQ"
     }]
-  }
+  }]
+}
